@@ -1,9 +1,10 @@
 import Image from 'next/image'
+import Hero from '@/components/LandingPage/Hero'
 
 export default function Home() {
   return (
     <main>
-      <div id='testimoni'>Body ntar</div>
+      <Hero />
     </main>
   )
 }
