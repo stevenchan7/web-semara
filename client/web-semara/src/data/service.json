@@ -1,0 +1,19 @@
+{
+	"services": [
+		{
+			"title": "Hygieia",
+			"desc": "Paket Hygieia adalah paket dasar jasa untuk menemani lansia saja. Pendampingan ini dapat dilakukan oleh orang yang tidak memiliki keahlian serta keterampilan di bidang kesehatan.",
+			"price": "50.000"
+		},
+		{
+			"title": "Laso",
+			"desc": "Paket Iaso adalah jasa menemani lansia, dengan memilih paket ini lansia mendapatkan akupresur sesuai dengan keinginannya. Pendampingan pada paket ini, dilakukan oleh seseorang dengan keahlian di bidang kesehatan.",
+			"price": "70.000"
+		},
+		{
+			"title": "Aegle",
+			"desc": "Paket Aegle ini memberikan layanan pendampingan oleh tenaga ahli di bidang kesehatan, dengan memberikan layanan pemeriksaan kesehatan dasar seperti: akupresur, pengecekan tekanan darah, gula darah, asam urat, dan kolesterol, dll.",
+			"price": "100.000"
+		}
+	]
+}
