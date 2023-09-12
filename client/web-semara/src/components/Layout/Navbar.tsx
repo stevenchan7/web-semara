@@ -53,7 +53,9 @@ export default function Navbar() {
 								['#testimoni', 'Testimoni'],
 								['/faq', 'FAQ'],
 							].map(([url, title]) => (
-								<Link url={url}>{title}</Link>
+								<Link key={title} url={url}>
+									{title}
+								</Link>
 							))}
 						</ul>
 					</div>
