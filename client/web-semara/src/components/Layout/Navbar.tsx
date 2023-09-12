@@ -20,11 +20,11 @@ export default function Navbar() {
 	return (
 		<>
 			{/* Contact to wa button  */}
-			<div className='fixed bottom-4 right-4'>
+			<div className='fixed bottom-4 right-4 z-10'>
 				<div className='relative'>
 					{/* div for radiate animation effect  */}
 					<div className='absolute w-full h-full bg-primary-blue rounded-full z-[-1] animate-[radiate_1s_infinite]'></div>
-					<a href='https://wa.me/6281339683882'>
+					<a href='https://wa.me/6282147127574'>
 						<Image className='active:scale-90' src='/Layout/logo-wa.png' width={70} height={70} alt='kontak wa' />
 					</a>
 				</div>
