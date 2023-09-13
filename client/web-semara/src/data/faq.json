@@ -1,0 +1,44 @@
+{
+	"faqs": [
+		{
+			"id": 1,
+			"question": "Apa itu Semara?",
+			"answer": "Layanan pendampingan lansia yang disediakan oleh profesional yang berpengalaman untuk membantu lansia mencapai tujuan tertentu, mengatasi tantangan, dan memperoleh pelayanan kesehatan."
+		},
+		{
+			"id": 2,
+			"question": "Bagaimana cara memilih pendamping Semara yang tepat?",
+			"answer": "Anda dapat memilih pendamping yang tepat dengan mempertimbangkan kebutuhan yang anda perlukan. Semara menyediakan 3 pilihan layanan yang dapat anda sesuaikan dengan kebutuhan"
+		},
+		{
+			"id": 3,
+			"question": "Bagaimana cara memesan pendamping Semara?",
+			"answer": "Anda dapat memperoleh jasa pendampingan dengan menghubungi kontak yang tertera pada website. Pastikan sebelumnya anda telah menentukan pilihan layanan yang akan anda pesan, dan tanggal layanan tersedia, lalu hubungi kotak untuk memulai proses."
+		},
+		{
+			"id": 4,
+			"question": "Apa manfaat utama dari menggunakan jasa pendampingan Semara?",
+			"answer": "Manfaat utama dari jasa pendampingan semara meliputi peningkatan kualitas hidup, dukungan emosional, pelayanan berbasis caring, dan mencapai tujuan yang diinginkan."
+		},
+		{
+			"id": 5,
+			"question": "Bagaimana proses kerja jasa pendampingan Semara?",
+			"answer": "Prosesnya akan bervariasi tergantung pada jenis jasa pendampingan yang anda pilih, tetapi umumnya melibatkan evaluasi awal, penetapan tujuan, sesi pendampingan, dan pengukuran kemajuan."
+		},
+		{
+			"id": 6,
+			"question": "Apakah jasa pendampingan Semara bersifat rahasia?",
+			"answer": "Anda tidak perlu khawatir, pendampingan yang dilakukan oleh tenaga profesional menjamin kerahasiaan pribadi anda akan terjaga."
+		},
+		{
+			"id": 7,
+			"question": "Bagaimana cara melaporkan masalah apabila terjadi kesulitan order?",
+			"answer": "Manfaat utama dari jasa pendampingan semara meliputi peningkatan kualitas hidup, dukungan emosional, pelayanan berbasis caring, dan mencapai tujuan yang diinginkan."
+		},
+		{
+			"id": 8,
+			"question": "Apakah jasa pendampingan Semara sama dengan terapi atau konseling?",
+			"answer": "Jasa pendampingan Semara berfokus pada bimbingan dan dukungan untuk mencapai tujuan, sedangkan terapi dan konseling lebih berorientasi pada pemahaman dan penanganan masalah psikologis."
+		}
+	]
+}
