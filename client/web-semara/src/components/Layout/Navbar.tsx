@@ -49,8 +49,8 @@ export default function Navbar() {
 							{/* Looping link menu  */}
 							{[
 								['/', 'Beranda'],
-								['#layanan', 'Layanan'],
-								['#testimoni', 'Testimoni'],
+								['/#layanan', 'Layanan'],
+								['/#testimoni', 'Testimoni'],
 								['/faq', 'FAQ'],
 							].map(([url, title]) => (
 								<Link key={title} url={url}>
